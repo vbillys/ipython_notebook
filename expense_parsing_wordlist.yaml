@@ -1,0 +1,140 @@
+DBS:
+-
+        word_list: 
+                - AWL 70252266
+        description:
+                - Ambil atm, selalu dianggap makan (cash) dulu
+        category:
+                - makan_atm
+-
+        word_list:
+                - CATHAYCINEP
+        description:
+                - Nonton di cathay
+        category:
+                - other
+-
+        word_list:
+                - INT
+        description:
+                - Interest Bank
+        category:
+                - income
+-
+        word_list:
+                - D2P AXS
+        description:
+                - Axs station transaction, probably singtel/starhub
+        category:
+                - comm
+-
+        word_list:
+                - NETFLIX.COM
+        description:
+                - Bayar langganan netflix
+        category:
+                - recurr
+-
+        word_list:
+                - WWF-DONATION
+        description:
+                - Donate to WWF monthly
+        category:
+                - recurr
+-
+        word_list:
+                - ETERNAL HA
+        description:
+                - Makan di Malioboro Jurong Point
+        category:
+                - dining
+-
+        word_list:
+                - MICROSOFT
+        description:
+                - Langganan Microsoft Office
+        category:
+                - recurr
+-
+        word_list:
+                - NTUC FAIRP
+                - NTUC FP
+        description:
+                - Belanja di Fairprice
+        category:
+                - groceries
+-
+        word_list:
+                - TRANSIT LI
+        description:
+                - EZLink
+        category:
+                - transport
+-
+        word_list:
+                - COURTS
+        description:
+                - Belanja apa nih di courts, usually electronics etc.
+        category:
+                - other
+OCBC:
+-
+        word_list:
+                - CASH WITHDRAWAL
+        description:
+                - Ambil atm, anggap makan (cash)
+        category:
+                - makan_atm
+-
+        word_list:
+                - PRUDENTIAL
+        description:
+                - Asuransi Prudential SG
+        category:
+                - recurr
+-
+        word_list:
+                - INTEREST CREDIT
+        description:
+                - Interest Bank
+        category:
+                - income
+-
+        word_list:
+                - TRANSIT LI
+                - SMRT
+                - COMFORT TAXIS
+        description:
+                - EZLink
+        category:
+                - transport
+                - taxi
+-
+        word_list:
+                - SALARY
+        description:
+                - Gaji
+        category:
+                - income
+-
+        word_list:
+                - GUARDIAN
+        description:
+                - Belanja Guardian
+        category:
+                - groceries
+                - other
+-
+        word_list:
+                - Uncle Jeff
+        description:
+                - Bayar kos
+        category:
+                - rent
+-
+        word_list:
+                - ROBINSON  SINGPOST
+        description:
+                - Transfer Indo
+        category:
+                - indo
