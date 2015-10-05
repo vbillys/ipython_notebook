@@ -5,56 +5,73 @@ DBS:
         description:
                 - Ambil atm, selalu dianggap makan (cash) dulu
         category:
-                - makan_atm
+                detailed_monthly: NONE
+                monthly: makan_atm
+                weekly: NONE
 -
         word_list:
                 - CATHAYCINEP
         description:
                 - Nonton di cathay
         category:
-                - other
+                detailed_monthly: nonton
+                monthly: other
+                weekly: NONE
 -
         word_list:
                 - INT
         description:
                 - Interest Bank
         category:
-                - income
+                detailed_monthly: interest
+                monthly: interest
+                weekly: NONE
 -
         word_list:
                 - D2P AXS
+                - DPAY AXS
         description:
                 - Axs station transaction, probably singtel/starhub
         category:
-                - comm
+                detailed_monthly: comm
+                monthly: comm
+                weekly: comm
 -
         word_list:
                 - NETFLIX.COM
         description:
                 - Bayar langganan netflix
         category:
-                - recurr
+                detailed_monthly: online_subscription
+                monthly: recurr
+                weekly: NONE
 -
         word_list:
                 - WWF-DONATION
         description:
                 - Donate to WWF monthly
         category:
-                - recurr
+                detailed_monthly: giving
+                monthly: giving
+                weekly: NONE
 -
         word_list:
                 - ETERNAL HA
         description:
                 - Makan di Malioboro Jurong Point
         category:
-                - dining
+                detailed_monthly: dining
+                monthly: makan
+                weekly: dining
 -
         word_list:
                 - MICROSOFT
         description:
                 - Langganan Microsoft Office
         category:
-                - recurr
+                detailed_monthly: online_subscription
+                monthly: recurr
+                weekly: NONE
 -
         word_list:
                 - NTUC FAIRP
@@ -62,21 +79,27 @@ DBS:
         description:
                 - Belanja di Fairprice
         category:
-                - groceries
+                detailed_monthly: groceries
+                monthly: makan
+                weekly: groceries
 -
         word_list:
                 - TRANSIT LI
         description:
                 - EZLink
         category:
-                - transport
+                detailed_monthly: transport
+                monthly: transport
+                weekly: transport
 -
         word_list:
                 - COURTS
         description:
                 - Belanja apa nih di courts, usually electronics etc.
         category:
-                - other
+                detailed_monthly: PLEASE_DESC
+                monthly: other
+                weekly: NONE
 OCBC:
 -
         word_list:
@@ -84,57 +107,79 @@ OCBC:
         description:
                 - Ambil atm, anggap makan (cash)
         category:
-                - makan_atm
+                detailed_monthly: NONE
+                monthly: makan_atm
+                weekly: NONE
 -
         word_list:
                 - PRUDENTIAL
         description:
                 - Asuransi Prudential SG
         category:
-                - recurr
+                detailed_monthly: insurance
+                monthly: insurance
+                weekly: NONE
 -
         word_list:
                 - INTEREST CREDIT
         description:
                 - Interest Bank
         category:
-                - income
+                detailed_monthly: interest
+                monthly: interest
+                weekly: NONE
 -
         word_list:
                 - TRANSIT LI
-                - SMRT
-                - COMFORT TAXIS
         description:
                 - EZLink
         category:
-                - transport
-                - taxi
+                detailed_monthly: ezlink
+                monthly: transport
+                weekly: transport
+-
+        word_list:
+                - SMRT
+                - COMFORT TAXIS
+        description:
+                - transport using taxis
+        category:
+                detailed_monthly: taxi
+                monthly: transport
+                weekly: transport
 -
         word_list:
                 - SALARY
         description:
                 - Gaji
         category:
-                - income
+                detailed_monthly: income
+                monthly: income
+                weekly: NONE
 -
         word_list:
                 - GUARDIAN
         description:
                 - Belanja Guardian
         category:
-                - groceries
-                - other
+                detailed_monthly: PLEASE_DESC
+                monthly: PLEASE_DESC
+                weekly: NONE
 -
         word_list:
                 - Uncle Jeff
         description:
                 - Bayar kos
         category:
-                - rent
+                detailed_monthly: rent
+                monthly: rent
+                weekly: NONE
 -
         word_list:
                 - ROBINSON  SINGPOST
         description:
                 - Transfer Indo
         category:
-                - indo
+                detailed_monthly: PLEASE_DESC
+                monthly: indo
+                weekly: NONE
